@@ -16,7 +16,7 @@ https://play.google.com/store/apps/details?id=tw.com.part518&hl=zh_TW
 --------
 <p align="left">
   <img src="https://i.imgur.com/jZIWFar.png" width="230"/>
-  <img src="https://i.imgur.com/DqjWftR.png" width="230"/>
+  <img src="https://i.imgur.com/6OpJZP7.png" width="230"/>
 </p> 
 
 備註
